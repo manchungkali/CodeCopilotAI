@@ -20,7 +20,7 @@ The development of CodeCopilot AI has been a challenging yet rewarding journey. 
 Although CodeCopilot AI is currently not generating any revenue, I've made the decision to offer it for free to the community. This initiative is a testament to my commitment to supporting fellow developers and paving the way for future possibilities.
 
 
-**Based on the search results, the supported models for CodeCopilot AI are:
+###the supported models for CodeCopilot AI are:
 
 | Model | Model Size |
 | --- | --- |
