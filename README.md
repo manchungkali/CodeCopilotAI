@@ -1,6 +1,6 @@
 # CodeCopilot AI: Your Trusted Local AI Companion for Programmers
 
-<a href="中文">https://github.com/manchungkali/CodeCopilotAI/main/README_zh_cn.md</a>
+<a href="中文">https://github.com/manchungkali/CodeCopilotAI/blob/main/README_zh_cn</a>
 
 ## Introduction
 
