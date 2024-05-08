@@ -1,7 +1,7 @@
 # CodeCopilot AI: Ihr vertrauensvoller lokaler KI-Begleiter für Programmierer
 
 <a href="https://github.com/manchungkali/CodeCopilotAI/blob/main/README_zh_cn.md">CodeCopilot AI Einführung auf Chinesisch</a>
-<a href="https://github.com/manchungkali/CodeCopilotAI/blob/main/README.md">CodeCopilot AI Einführung auf Deutsch</a>
+<a href="https://github.com/manchungkali/CodeCopilotAI/blob/main/README.md">CodeCopilot AI Einführung auf Englisch</a>
 
 
 ## Einführung
