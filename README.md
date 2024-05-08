@@ -1,5 +1,7 @@
 # CodeCopilot AI: Your Trusted Local AI Companion for Programmers
 
+<a href="中文">https://github.com/manchungkali/CodeCopilotAI/main/README_zh_cn.md</a>
+
 ## Introduction
 
 I'm excited to introduce CodeCopilot AI, a powerful tool that I've developed to assist programmers like yourself. Leveraging the impressive Llama3 model, CodeCopilot AI is designed to operate locally on your Chrome browser, prioritizing your privacy and security.
