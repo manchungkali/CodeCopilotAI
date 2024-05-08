@@ -1,5 +1,7 @@
 # CodeCopilot AI：您值得信赖的本地化 AI 编程助手
 
+<a href="https://github.com/manchungkali/CodeCopilotAI/blob/main/README_de.md">CodeCopilot AI Einführung auf Deutsch</a>
+
 ## 简介
 
 我很高兴向您介绍 CodeCopilot AI，这是一款我专门为程序员开发的强大工具。CodeCopilot AI 利用了出色的 Llama3 模型,设计为在您的 Chrome 浏览器上本地运行,优先考虑您的隐私和安全。
